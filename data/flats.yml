@@ -1,0 +1,42 @@
+francishthometz:
+  name: "Francis' Vampire Castle"
+  description: "Blood party at 3am"
+  city_name: "Oakland, CA"
+  city_slug: "oakland"
+  wifi: true
+  rating: 5
+jconduah729:
+  name: "Josh's Temple"
+  description: "Even further up north"
+  city_name: "Kyoto, Japan"
+  city_slug: "kyoto"
+  wifi: false
+  rating: 4
+KwunMan:
+  name: "Luis' Kingdom"
+  description: "Capital and Center of the Earth"
+  city_name: "North Pole city, North Pole"
+  city_slug: "npc"
+  wifi: true
+  rating: 2
+rlwillem:
+  name: Willem's Cave
+  description: "Away from singletons"
+  city_name: "Yikes, Belgium"
+  city_slug: "yikes"
+  wifi: true
+  rating: 4
+mkyoon713:
+  name: Min's Ark
+  description: "Expecting an apolocalyse"
+  city_name: "Edge of The World, The Sea"
+  city_slug: "edge"
+  wifi: true
+  rating: 4
+Sumt32:
+  name: Sumita's Island
+  description: "New island discovered in Hokkaido"
+  city_name: "Sumita, Japan"
+  city_slug: "sumita"
+  wifi: true
+  rating: 5
